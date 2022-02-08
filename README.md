@@ -11,7 +11,6 @@ To start you need open folder in terminal and enter
 ``` bash
 cd EthereumAdress
 ```
-```
 ``` bash
 python manage.py runserver
 ```
