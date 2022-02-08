@@ -1,0 +1,25 @@
+.container {
+  max-width: 1170px;
+  margin: auto;
+}
+.forrm {
+  align-self: center;
+  align-items: center;
+}
+h1 {
+  color: #f8efe1;
+}
+.hhh {
+  color: #fdf5e6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+#alankrasava {
+  position: relative; 
+  left: 50%; 
+  transform: translate(-50%, 0);
+}
+body {
+  background: linear-gradient(to bottom right, #f6e2e2, #b39999);
+}
