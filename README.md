@@ -9,7 +9,7 @@ and you need to download repository of a program from github.
 # Usage
 To start you need open folder in terminal and enter
 ``` bash
-cd ToDoApp
+cd 
 ```
 ``` bash
 python manage.py migrate
